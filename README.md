@@ -11,5 +11,5 @@ It is a java project that is developed with OOP. You can login with "admin" and 
 ![Screenshot](6.PNG)
 ![Screenshot](7.png)
 ![Screenshot](8.PNG)
-![Screenshot](9.png)
+![Screenshot](9.PNG)
 ![Screenshot](10.PNG)

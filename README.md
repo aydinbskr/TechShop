@@ -4,7 +4,7 @@ It is a java project that is developed with OOP. You can login with "admin" and 
 ## Screenshoots
 
 ![Screenshot](1.PNG)
-![Screenshot](2.png)
+![Screenshot](2.PNG)
 ![Screenshot](3.png)
 ![Screenshot](4.png)
 ![Screenshot](5.png)
